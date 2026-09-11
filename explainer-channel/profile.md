@@ -5,7 +5,9 @@
 - **style_preset:** Isometric Flat Vector (preset id: pending first render)
 - **preset_media_id:** (pending first render)
 - **style_key_job_id:** (pending first render) — 16:9 derived at first render, attached to every clip
-- **voice:** documentary/narrator intent (pending first render)
+- **voice_id:** d8ba9f14-8a24-44db-932b-99e16c45bd32
+- **voice_type:** preset
+- **voice_name:** Cillian (steady documentary read)
 - **aspect:** 16:9
 - **character:** faceless
 - **subtitles:** off
